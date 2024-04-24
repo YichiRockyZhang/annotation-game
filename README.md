@@ -1,6 +1,6 @@
 # Kuiperbowl
 
-Real-time multiplayer quizbowl
+Aadi's Branch | Real-time multiplayer quizbowl
 
 ![Quizbowl game page](docs/game.png)
 
